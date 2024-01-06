@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feran15
-- 👀 I’m interested in learning more programming languages
+- 👀 I’m interested in collaborating with more developers.
 - 🌱 I’m currently learning React with Node.js.
 - 💞️ I’m looking to collaborate with more experienced people
 - 📫 How to reach me abodundepaul2022@gmail.com or 09122676896
